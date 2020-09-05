@@ -1,4 +1,4 @@
-# Diamonds Data Exploration
+# Loans Data Exploration
 
 ## Dataset
 
